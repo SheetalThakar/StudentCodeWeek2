@@ -24,7 +24,6 @@ public class StudentArray
         for(int i=0; i<studentList.length; i++)
         {
             System.out.println(studentList[i].getName());
-            System.out.println("Bye");
         }
     }
     
